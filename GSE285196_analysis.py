@@ -1,20 +1,9 @@
-# Using Python/Scanpy
 import scanpy as sc
 import squidpy as sq
 import numpy as np # 2.0.2
 import pandas as pd # 2.3.3
 import matplotlib.pyplot as plt  
 import os
-
-
-
-# # Read data
-# adata = sc.read_visium('/')
-# # or if you have .h5ad file:
-# adata = sc.read_h5ad('file.h5ad')
-
-
-# print(pd.show_versions())
 
 # Base directory
 base_path = "/Users/anna_gurina/Desktop/KSE_Bioinformatics/BioLab/datasets/GSE285196_dataset"
