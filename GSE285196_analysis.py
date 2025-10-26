@@ -5,6 +5,10 @@ import pandas as pd # 2.3.3
 import matplotlib.pyplot as plt  
 import os
 
+# Source: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE285196
+# Paper: https://pubmed.ncbi.nlm.nih.gov/40710355/
+#        Pathogenesis of Graves' Disease Determined Using Single-Cell Sequencing with Thyroid Autoantigen Peptide Stimulation in B Cells
+
 # Base directory
 base_path = "/Users/anna_gurina/Desktop/KSE_Bioinformatics/BioLab/datasets/GSE285196_dataset"
 
